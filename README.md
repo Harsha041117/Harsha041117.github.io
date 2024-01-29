@@ -160,7 +160,7 @@
     </header>
     <br><br>
     <img src="D:\Harsha\Gallery\Downloads\Paris, France.jpg" width="500" height="300"></center><br><br>
-    
+    ![download (2)](https://github.com/Harsha041117/Harsha041117.github.io/assets/133194326/a76f4433-c728-4564-a9c1-1ea98886eb99)
      <section>
         Paris (French pronunciation: [paʁi] ⓘ) is the capital and most populous city of France. With an official estimated population of 2,102,650 residents as of 1 January 2023[2] in an area of more than 105 km2 (41 sq mi),[5] Paris is the fourth-most populated city in the European Union and the 30th most densely populated city in the world in 2022.[6] Since the 17th century, Paris has been one of the world's major centres of finance, diplomacy, commerce, culture, fashion, and gastronomy. For its leading role in the arts and sciences, as well as its early and extensive system of street lighting, in the 19th century, it became known as the City of Light.[7]
 
